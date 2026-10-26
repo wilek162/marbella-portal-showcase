@@ -8,7 +8,7 @@ MarbellaPortal helps people explore Marbella properties, narrow their search, sa
 **Creator and developer:** [William Eklund](https://github.com/wilek162)
 **Project website:** [marbellaportal.com](https://marbellaportal.com)
 
-This repository presents the product, the thinking behind it and a runnable example extracted from the private application. It is intended for recruiters and people interested in product-focused engineering.
+This repository presents the product, the thinking behind it and a runnable example extracted from the private application. It is intended for people interested in product-focused engineering and recruiters.
 
 ## Product focus
 
